@@ -605,7 +605,7 @@
       "permissions": [
         "Write angelOS setting osd.layout (turns the built-in layout OSD off while enabled, back on when disabled)"
       ],
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "browser-art",
@@ -641,7 +641,7 @@
         "Read the playing local audio file and its folder",
         "Write cache in ~/.cache/angelos/browser-art"
       ],
-      "status": "pending"
+      "status": "approved"
     }
   ]
 }
